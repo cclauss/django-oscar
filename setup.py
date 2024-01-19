@@ -24,7 +24,7 @@ install_requires = [
     # We use the ModelFormSetView from django-extra-views for the basket page
     'django-extra-views>=0.13,<0.15',
     # Search support
-    'django-haystack>=3.0b1',
+    'django-haystack>=3.2.1',
     # Treebeard is used for categories
     'django-treebeard>=4.3.0',
     # Babel is used for currency formatting
